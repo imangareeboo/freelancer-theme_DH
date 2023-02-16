@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2023-02-16
-img: digital-humanities.jpeg
+img: cabin.png
 alt: image-alt
 project-date: Spring 2023
 Category: PhD in English Elective
