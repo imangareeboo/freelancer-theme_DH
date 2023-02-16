@@ -16,7 +16,7 @@ $name = $_POST['name'];
 if ($email_address === FALSE) {
     echo 'Invalid email';
     exit(1);
-}
+igareeboo@yahoo.com}
 $phone = $_POST['phone'];
 $message = $_POST['message'];
 
