@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 2
-date: ongoing
+date: March 2nd 2023
 img: galette.png
 alt: image-alt
 project-date: February 2023--
