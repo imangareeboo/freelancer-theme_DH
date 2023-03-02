@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: cake.png
+date: ongoing
+img: galette.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: February 2023--
+client: Host Family in Miami
+category: Dessert Testing
+description: My first galette de rois was made over Sunday February 26th - Monday February 27th 2023. It was baked on the evening of Tuesday, February 28th for a dinner party at my host family's home. Although it cooked well, the pastry was not sealed enough on one side and, as a result, some of the filling leaked out and cooked along one side of the galette. Fortunately, this did not result in pastry deflating or in the filling that remained witin the pastry from cooking and fillling the dessert. 
 ---
